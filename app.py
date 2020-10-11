@@ -26,3 +26,4 @@ def form_submitted():
 
 # export FLASK_ENV=development
 # export FLASK_APP=app.py
+# pip freeze > .dependencies
